@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashvardhan159
-- 👀 I’m interested in AI and Machine Learning
+- 👀 I’m interested in AI,Machine Learning, App Devlopment.
 - 🌱 I’m currently learning Js and C 
 - 💞️ I’m looking to collaborate in real world project 
 - 📫 My email:- yashvardhan159@gmail.com
