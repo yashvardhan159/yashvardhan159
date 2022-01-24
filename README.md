@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Js and C 
 - 💞️ I’m looking to collaborate in real world project 
 - 📫 My email:- yashvardhan159@gmail.com
-- 📥 My Insta id:- vardhan.09
+- 📥 My Insta id:- vardhan._.09
 
 <!---
 yashvardhan159/yashvardhan159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
