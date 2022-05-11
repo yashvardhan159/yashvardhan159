@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashvardhan159
 - 👀 I’m interested in AI,Machine Learning, App Devlopment.
-- 🌱 I’m currently learning Js and C 
+- 🌱 I’m currently learning C&C++
 - 💞️ I’m looking to collaborate in real world project 
 - 📫 My email:- yashvardhan159@gmail.com
 - 📥 My Insta id:- vardhan._.09
