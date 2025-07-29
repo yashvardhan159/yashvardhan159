@@ -1,5 +1,4 @@
-# 👨‍💻 I'm Yash Chaudhary
-***🎓 A Data Science Enthusiast passionate about turning data into decisions***
+# 👨‍💻 I'm Yash Chaudhary - ***🎓 A Data Science Enthusiast passionate about turning data into decisions***
 
 💻 Skilled in Python, SQL, and Machine Learning
 
