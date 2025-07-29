@@ -19,7 +19,7 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 - 🏭 [Manufacturing KPI Dashboard](#)  
   Monitors rejection rates, wastage, and machine efficiency.
 
-> *(Project links will be added once uploaded)*
+> [*(Project links will be added once uploaded)*](https://github.com/yashvardhan159/Crowdfunding-Analysis-Project)
 
 ---
 
