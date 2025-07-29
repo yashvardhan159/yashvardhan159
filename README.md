@@ -40,11 +40,11 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="left" style="display: flex; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashvardhan159&show_icons=true&theme=react&border_radius=10" />    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan159&layout=compact&theme=react&border_radius=10" />
-</div>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yashvardhan159&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan159&theme=react&layout=compact" />
+</p>
 
 
 ---
