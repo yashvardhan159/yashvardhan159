@@ -1,6 +1,6 @@
-# 👨‍💻 I'm Yash Chaudhary <br>
+# 👨‍💻 I'm Yash Chaudhary  
 *🎓 A Data Science Enthusiast passionate about turning data into decisions*
-
+---
 💻 Skilled in Python, SQL, and Machine Learning
 
 📊 Build interactive dashboards using Power BI and Tableau
