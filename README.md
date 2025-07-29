@@ -1,13 +1,13 @@
 # 👨‍💻 I'm Yash Chaudhary  
-*🎓 A Data Science Enthusiast passionate about turning data into decisions*
+* 🎓 A Data Science Enthusiast passionate about turning data into decisions*
 
-💻 Skilled in Python, SQL, and Machine Learning
+* 💻 Skilled in Python, SQL, and Machine Learning*
 
-📊 Build interactive dashboards using Power BI and Tableau
+* 📊 Build interactive dashboards using Power BI and Tableau*
 
-🤖 Developed real-world projects in resume classification, manufacturing, and crowdfunding
+* 🤖 Developed real-world projects in resume classification, manufacturing, and crowdfunding*
 
-🧠 Internship at Ai Variant: built ML models, automated reports, and delivered data-driven insights
+* 🧠 Internship at Ai Variant: built ML models, automated reports, and delivered data-driven insights*
 
 ---
 
