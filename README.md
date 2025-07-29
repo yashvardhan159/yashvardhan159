@@ -40,7 +40,7 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 
 ---
 
-### 🤝 Connect with me
+### 📫 Connect with me
 
 <p align="left">
   <a href="mailto:yashvardhan159@gmail.com" target="_blank">
