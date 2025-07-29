@@ -16,7 +16,7 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 - 📊 [Crowdfunding Analytics](https://github.com/yashvardhan159/Crowdfunding-Analysis-Project) <br>
   Tableau & SQL analysis of 300K+ campaigns to find success trends.
 
-- 🏭 [Manufacturing KPI Dashboard](#)  
+- 🏭 [Manufacturing KPI Dashboard](https://github.com/yashvardhan159/Manufacturing-Analysis)  <br>
   Monitors rejection rates, wastage, and machine efficiency.
 
 > 
