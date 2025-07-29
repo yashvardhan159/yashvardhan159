@@ -1,10 +1,13 @@
-# 👋 Hi there, I'm Yash Chaudhary
+# 👨‍💻 I'm Yash Chaudhary
+🎓 A Data Science Enthusiast passionate about turning data into decisions
 
-🎓 **Aspiring Data Scientist | Python Enthusiast | Dashboard Developer**
+💻 Skilled in Python, SQL, and Machine Learning
 
-I'm a data-driven professional with hands-on experience in Python, machine learning, SQL, and building interactive dashboards using Tableau and Power BI.
+📊 Build interactive dashboards using Power BI and Tableau
 
-I’ve worked on real-world projects during internships at **Ai Variant**, building ML models, automating business reports, and generating actionable insights from data.
+🤖 Developed real-world projects in resume classification, manufacturing, and crowdfunding
+
+🧠 Internship at Ai Variant: built ML models, automated reports, and delivered data-driven insights
 
 ---
 
