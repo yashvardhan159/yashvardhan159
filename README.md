@@ -40,13 +40,9 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats                                                                                                       ### 📌 Most Used Languages
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvardhan159&show_icons=true&theme=react)
-
-### 📌 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan159&layout=compact&theme=react)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvardhan159&show_icons=true&theme=react)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan159&layout=compact&theme=react)
 
 
 ---
