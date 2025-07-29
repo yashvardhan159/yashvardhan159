@@ -10,7 +10,7 @@ I’ve worked on real-world projects during internships at **Ai Variant**, build
 
 ### 🔍 Projects
 
-- 📄 [Resume Classifier with NLP + Streamlit](https://github.com/yashvardhan159/Crowdfunding-Analysis-Project)
+- 📄 [Resume Classifier with NLP + Streamlit](https://github.com/yashvardhan159/Crowdfunding-Analysis-Project)(#)
   NLP-based ML pipeline to classify resumes for HR automation.
 
 - 📊 [Crowdfunding Analytics](#)  
